@@ -1,0 +1,8 @@
+Django
+djangorestframework
+django-otp
+django-phonenumber-field
+phonenumbers
+twilio
+requests
+drf_yasg
